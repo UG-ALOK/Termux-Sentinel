@@ -34,7 +34,7 @@ pkg update -y && pkg install -y git
 ### 2. Clone the repository
 
 ```bash
-git clone 
+git clone https://github.com/UG-ALOK/Termux-Sentinel.git
 ```
 
 ### 3. Run the installer
